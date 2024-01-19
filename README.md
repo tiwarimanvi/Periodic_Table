@@ -1,0 +1,1 @@
+In this project we made periodic table, show casing all of its elements’ properties and other information in a menu driven structure. We used python, tkinter library and MySQL in the project and completed it successfully
